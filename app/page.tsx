@@ -8,7 +8,7 @@ export default function Home() {
           className="dark:invert"
           src="/next.svg"
           alt="Next.js logo"
-          width={180}
+          width={500}
           height={38}
           priority
         />
@@ -22,6 +22,9 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
+          </li>
+          <li className="tracking-[-.01em]">
+            Hello world.
           </li>
         </ol>
 
